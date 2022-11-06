@@ -4,9 +4,21 @@
   <img src="https://i.pinimg.com/originals/38/a4/e8/38a4e8a15154924ffdea25ba9a59378e.gif" width="500"/>
 </div>
 
+🚀 About Me
+
+~ Hello I am Computer Scinece Student 
+
+- :telescope: I’m Currently learning Full Stack Web Development.
+
+- :seedling: Obsessed about WebDev and Open-Source.
+  
+- :zap: Currently doing #100DaysofCodechallenge
+
+- :mailbox: Learning in public:  <a href="https://twitter.com/ashimdevnath4" target="blank"><img src="https://img.shields.io/twitter/follow/ashimdevnath4?logo=twitter&style=for-the-badge" alt="ashimdevnath4" /></a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashimdevnath&label=Profile%20views&color=0e75b6&style=flat" alt="ashimdevnath" /> </p>
 
-<p align="center"> <a href="https://twitter.com/ashimdevnath4" target="blank"><img src="https://img.shields.io/twitter/follow/ashimdevnath4?logo=twitter&style=for-the-badge" alt="ashimdevnath4" /></a> </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/ashimdevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashimdevnath" height="30" width="40" /></a>
