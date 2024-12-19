@@ -11,7 +11,7 @@
 - 🎓 I’m a **Computer Science Student** from India.  
 - 🌱 Currently diving deep into **Full Stack Web Development**.  
 - 💻 Passionate about **Web Development** and contributing to **Open-Source Projects**.  
--🌐 Exploring the latest trends in **technology** and constantly improving my skills.
+- 🌐 Exploring the latest trends in **technology** and constantly improving my skills.
 ---
 
 ### 📫 Connect With Me  
