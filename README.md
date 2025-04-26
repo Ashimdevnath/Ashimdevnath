@@ -8,10 +8,11 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 I’m a **Computer Science Student** from India.  
-- 🌱 Currently diving deep into **Full Stack Web Development**.  
-- 💻 Passionate about **Web Development** and contributing to **Open-Source Projects**.  
-- 🌐 Exploring the latest trends in **technology** and constantly improving my skills.
+- 🧑‍💻 I'm a Full Stack Web Developer from India with a strong focus on building scalable web applications.  
+- 🚀 Skilled in Next.js, React.js, Node.js, and MongoDB, with hands-on experience
+- 🌱 Currently sharpening my expertise in Backend Development, Microservices, and Database Management.
+- 🛠️ Passionate about building efficient, user-friendly systems and exploring emerging technologies.
+- 📚 Always learning, building, and contributing to open-source projects and personal innovations.
 ---
 
 ### 📫 Connect With Me  
